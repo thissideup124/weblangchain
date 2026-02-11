@@ -15,7 +15,7 @@
     "@chakra-ui/react": "^2.8.1",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
-    "@langchain/community": "^0.0.19",
+    "@langchain/community": "^1.1.14",
     "@langchain/openai": "^0.0.12",
     "@types/dompurify": "^3.0.5",
     "@types/marked": "^5.0.1",
